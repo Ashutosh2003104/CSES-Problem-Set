@@ -1,4 +1,4 @@
-# 🚀 CSES Problem Set – Daily Solutions
+#  CSES Problem Set – Daily Solutions
 
 Welcome to my CSES Problem Set solutions repository.
 
@@ -8,7 +8,7 @@ This repository reflects my commitment to disciplined practice, continuous impro
 
 ---
 
-## 📚 Why CSES?
+##  Why CSES?
 
 The CSES Problem Set is one of the most structured and comprehensive collections of competitive programming problems. It covers fundamental and advanced algorithmic concepts that are essential for:
 
@@ -32,7 +32,7 @@ Problem Categories Include:
 
 ---
 
-## 🎯 My Daily Practice Plan
+##  My Daily Practice Plan
 
 ✔ Solve 4–5 problems daily
 ✔ Focus on writing optimal and clean C++ code
@@ -44,7 +44,7 @@ Consistency > Intensity.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Language: **C++**
 * Standard: C++17
@@ -53,7 +53,7 @@ Consistency > Intensity.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 CSES-Problem-Set/
@@ -72,7 +72,7 @@ Each folder contains well-structured `.cpp` solutions categorized by topic.
 
 ---
 
-## 📈 Progress Mindset
+##  Progress Mindset
 
 This repository is not just about uploading solutions.
 
@@ -85,7 +85,7 @@ It represents:
 
 ---
 
-## 🚀 Long-Term Goals
+##  Long-Term Goals
 
 * Complete the entire CSES Problem Set
 * Build strong intuition for algorithms
@@ -95,7 +95,7 @@ It represents:
 
 ---
 
-## 📌 Note
+##  Note
 
 All solutions are written by me after attempting the problems independently. Improvements and optimizations are continuously made as I learn more.
 
