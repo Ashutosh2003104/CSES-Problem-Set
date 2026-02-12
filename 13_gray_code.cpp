@@ -1,0 +1,43 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+vector<string> solve(int n) {
+
+    // Base case
+    if (n == 1) {
+        return {"0", "1"};
+    }
+
+    vector<string> a = solve(n - 1);
+
+    vector<string> b = a;
+    reverse(b.begin(), b.end());
+
+    for (string &s : a) {
+        s += '0';
+    }
+
+    for (string &s : b) {
+        s += '1';
+    }
+
+    a.insert(a.end(), b.begin(), b.end());
+
+    return a;
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int n;
+    cin >> n;
+
+    vector<string> gray = solve(n);
+
+    for (string &s : gray) {
+        cout << s << "\n";
+    }
+
+    return 0;
+}
